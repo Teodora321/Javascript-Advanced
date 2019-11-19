@@ -1,4 +1,4 @@
-# <a href=""><p align="center"> JavaScript Advanced :mortar_board: <p></a> 
+<p align="center"> JavaScript Advanced :mortar_board: <p>
 ## :rocket:PROGRAM 
 - [x] :bulb: Manipulating the **DOM** and **Event Handling**
 - [x] :bulb: **Unit Testing** - concepts. Using **Mocha** and **Chai** for Unit Testing
